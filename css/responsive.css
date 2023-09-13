@@ -53,10 +53,10 @@
     font-family: 'Inria Serif', serif;
     position: absolute;
     top: 40%;
-    left: 38%;
+    left: 45%;
     color: #fff;
-    font-size: 90px;
-    font-size: 5.625em;
+    font-size: 30px;
+    font-size: 3.125em;
   }
 
   .visual_img li:nth-child(1),
