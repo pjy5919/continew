@@ -9,6 +9,7 @@
     display: flex;
     flex-flow: column nowrap;
     /*박스가 세로로 한줄씩 배치*/
+    height: auto;
   }
 
   /* 탑메뉴 */
@@ -252,12 +253,14 @@
   }
 
   #section8 ul {
+    margin-left: 10%;
     width: 100%;
-    display: inline-block;
+    display: block;
+  
   }
 
   #section8 ul li {
-    margin: 100px;
+    margin: 60px;
     width: 30%;
     height: 500px;
     border-radius: 150px;
@@ -483,7 +486,6 @@ display: none;
 #section8 ul {
   width: 100%;
   display: inline-block;
-  
 }
 
 #section8 ul li {
